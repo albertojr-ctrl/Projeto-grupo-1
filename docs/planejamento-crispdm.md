@@ -96,7 +96,7 @@ Em versões futuras do projeto, a recorrência poderá ser automatizada via GitH
 
 ### Como o código será versionado
 
-O código está hospedado no GitHub no repositório do Grupo 1 (CESAR School). O fluxo de versionamento adotado pelo grupo é:
+O código está hospedado no GitHub no repositório do Grupo 1. O fluxo de versionamento adotado pelo grupo é:
 
 - Cada funcionalidade nova ou correção é feita em um branch separado e integrada via Pull Request ao branch main.
 - As mensagens de commit seguem o padrão: feat: para novas funcionalidades, fix: para correções e docs: para atualizações de documentação.
