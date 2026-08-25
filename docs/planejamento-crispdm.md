@@ -1,6 +1,6 @@
 **MIRAVEC**  
 
-· Grupo 1 · CESAR School  —  *Pipeline de análise do Aedes aegypti*
+· Grupo 1 · CESAR School
 
 ## 1. Pergunta de Negócio, Público e Critério de Sucesso
 
